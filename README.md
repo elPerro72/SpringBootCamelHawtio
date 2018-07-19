@@ -1,4 +1,4 @@
-# SpringBootCamelStarter 5
+# SpringBootCamelStarter 8
 
 My starter project for a Spring Boot application using Apache Camel.
 
